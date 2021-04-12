@@ -1,81 +1,42 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shubham Jain](https://shubhamjain45.github.io//)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+### Hi there, I'm Shubham!
 
-<!--*![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png)-->
+## I'm a Software Developer!
+- 🔭 I’m currently working as a Senior software engineer at Capgemini !
 
 
-### My Tech Toolbox 🧰
+### Connect with me:
 
-<p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
-</p>
+[<img align="left" alt="vinaysomawat-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vinaysomawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vinaysomawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vinaysomawat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
- 
+<br />
 
-<!--* My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
-<!--* 🏠 Hogwarts House: Griffindor-->
-<!--* If you play Call of Duty- add me: Blackhood@00-->
-<!--* I am currently learning Docker-->
-<!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
-<!-- -->
-<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
 
 ---
 
-<table><tr><td valign="top" width="50%">
 
-<!--### My Latest Blog Posts 🌱
- BLOG-POST-LIST:START
-- [Stand Out by Building a Personal Brand](https://ayushirawat.com/stand-out-by-building-a-personal-brand)
-- [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
-- [Fetch All Information of any Country using Python](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
-- [Automate any Chat-Messenger with Python](https://ayushirawat.com/automate-any-chat-messenger-with-python)
-- [Draw Indian Flag using Python](https://ayushirawat.com/draw-indian-flag-using-python)
-<!-- BLOG-POST-LIST:END 
-➡️ [more blog posts...](https://ayushirawat.com/)
-</td>
-<td valign="top" width="50%">-->
+<img align="left" alt="vinaysomawat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinaysomawat&show_icons=true&hide_border=true" />
 
-<!--### My Latest YouTube Videos 🌱
- YOUTUBE:START 
-- [1822. Sign of the Product of an Array ](https://www.youtube.com/watch?v=3DViZ6BF4sw)
-- [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
-- [Fetch All Information of any Country ](https://www.youtube.com/watch?v=Eb3naUPN3G8)
-- [Automate any Chat-Messenger with Python ](https://www.youtube.com/watch?v=6dy8wl0x-oc)
-- [Draw Indian Flag ](https://www.youtube.com/watch?v=4gvmxgkeAjo)
-<!-- YOUTUBE:END 
-➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
-</td> -->
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shubhamjain45&show_icons=true&theme=gotham" alt="Shubham Jain | Stats" />
-
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{Shubhamjain45}/count.svg)
-
-
+[website]: https://shubhamjain45.github.io/
 [twitter]: https://twitter.com/shubhamjain4696
-[gmail]: https://gmail.com
+[instagram]: https://www.instagram.com/somawatvinay/
 [linkedin]: https://www.linkedin.com/in/shubham-harish-jain/
-<!--[Medium]: https://medium.com/@ayushi7rawat
-[Facebook]: https://www.facebook.com/ayushi7rawat -->
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
