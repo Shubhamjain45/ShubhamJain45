@@ -1,9 +1,9 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ayushi Rawat](https://ayushirawat.com/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shubham Jain](https://shubhamjain45.github.io//)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png)
+<!--*![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png)-->
 
 
 ### My Tech Toolbox 🧰
@@ -38,28 +38,28 @@
 
 <table><tr><td valign="top" width="50%">
 
-### My Latest Blog Posts 🌱
-<!-- BLOG-POST-LIST:START -->
+<!--### My Latest Blog Posts 🌱
+ BLOG-POST-LIST:START
 - [Stand Out by Building a Personal Brand](https://ayushirawat.com/stand-out-by-building-a-personal-brand)
 - [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
 - [Fetch All Information of any Country using Python](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
 - [Automate any Chat-Messenger with Python](https://ayushirawat.com/automate-any-chat-messenger-with-python)
 - [Draw Indian Flag using Python](https://ayushirawat.com/draw-indian-flag-using-python)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%">-->
 
 ### My Latest YouTube Videos 🌱
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START 
 - [1822. Sign of the Product of an Array ](https://www.youtube.com/watch?v=3DViZ6BF4sw)
 - [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
 - [Fetch All Information of any Country ](https://www.youtube.com/watch?v=Eb3naUPN3G8)
 - [Automate any Chat-Messenger with Python ](https://www.youtube.com/watch?v=6dy8wl0x-oc)
 - [Draw Indian Flag ](https://www.youtube.com/watch?v=4gvmxgkeAjo)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:END 
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
-</td>
+</td> -->
 
  <details>
 <summary>📊 Github Stats</summary>
