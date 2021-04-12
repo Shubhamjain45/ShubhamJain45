@@ -21,7 +21,7 @@
 
  
 
-* My primary coding language: Python
+<!--* My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
@@ -50,8 +50,8 @@
 </td>
 <td valign="top" width="50%">-->
 
-### My Latest YouTube Videos 🌱
-<!-- YOUTUBE:START 
+<!--### My Latest YouTube Videos 🌱
+ YOUTUBE:START 
 - [1822. Sign of the Product of an Array ](https://www.youtube.com/watch?v=3DViZ6BF4sw)
 - [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
 - [Fetch All Information of any Country ](https://www.youtube.com/watch?v=Eb3naUPN3G8)
@@ -64,20 +64,18 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shubhamjain45&show_icons=true&theme=gotham" alt="Shubham Jain | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Shubhamjain45}/count.svg)
 
 
-[twitter]: https://twitter.com/ayushi7rawat
-[youtube]: https://youtube.com/ayushirawat
-[Hashnode]: https://ayushirawat.com
+[twitter]: https://twitter.com/shubhamjain4696
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
-[Medium]: https://medium.com/@ayushi7rawat
-[Facebook]: https://www.facebook.com/ayushi7rawat
+[linkedin]: https://www.linkedin.com/in/shubham-harish-jain/
+<!--[Medium]: https://medium.com/@ayushi7rawat
+[Facebook]: https://www.facebook.com/ayushi7rawat -->
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
