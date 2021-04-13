@@ -1,4 +1,8 @@
 ## नमस्ते (Namaste), I am [Shubham Jain](https://shubhamjain45.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/shubhamjain4696) 
+[![Instagram Badge](https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/shubham_h_jain) 
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/shubham-harish-jain/)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 <!--### [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shubham Jain](https://shubhamjain45.github.io/) -->
 
 ## I'm a Software Developer!
