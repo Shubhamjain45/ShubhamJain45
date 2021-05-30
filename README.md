@@ -34,9 +34,9 @@
 ---
 
 
-//<img align="left" alt="Shubhamjain's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shubhamjain45&show_icons=true&hide_border=true" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamjain45&count_private=true)
+<!--<img align="left" alt="Shubhamjain's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shubhamjain45&show_icons=true&hide_border=true" />
+-->
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamjain45&count_private=true)
 
 
 [website]: https://shubhamjain45.github.io/
