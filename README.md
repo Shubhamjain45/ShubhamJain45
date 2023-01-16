@@ -6,7 +6,7 @@
 <!--### [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shubham Jain](https://shubhamjain45.github.io/) -->
 
 ## I'm a Software Developer!
-- 🔭 I’m currently working as a Senior Software Engineer at Capgemini Technology Services !
+- 🔭 I’m currently working as a Associate - Projects at Cognizant !
 
 
 <!--
